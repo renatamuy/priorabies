@@ -2,8 +2,7 @@
 
 library(terra)
 library(prioritizr)   
-library(sf)           
-library(terra)         
+library(sf)                 
 library(exactextractr) 
 if (!require(remotes))
   install.packages("remotes")
